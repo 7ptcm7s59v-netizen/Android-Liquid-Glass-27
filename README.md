@@ -1,10 +1,10 @@
-# Liquid Glass (Backdrop)
+# Liquid Glass (OS 27)
 
 ![frontPhoto](artworks/banner.jpg)
 
 A customizable Liquid Glass effect library for Compose Multiplatform.
 
-## Docs
+## Docs (from the original owner)
 
 [![Maven Central](https://img.shields.io/maven-central/v/io.github.kyant0/backdrop)](https://central.sonatype.com/artifact/io.github.kyant0/backdrop)
 
